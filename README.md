@@ -24,19 +24,19 @@ Features
 How to Run the Project (Step-by-Step)
  ✅ 1. Clone the Repository
  
-      git clone https://github.com/your-username/your-repo-name.git
-      cd your-repo-name
+      git clone https://github.com/ratish-01/GeoGuess.git
+      cd GeoGuess
 
 ✅ 2. Setup Backend
 
     cd backend
     npm install
 
-
  Create a .env file inside backend:
  
  MAPILLARY_TOKEN=your_mapillary_access_token_here
 
+✅ 3. Start game
 
  Then start the server:
 
@@ -47,17 +47,6 @@ How to Run the Project (Step-by-Step)
  
  Server running on http://localhost:3000
 
-✅ 3. Run Frontend
-
-    Open the frontend folder in VS Code.
-    
-    Then:
-    
-    Right click index.html
-    
-    Click Open with Live Server
-    
-    OR use any static server.
 
 ✅ 4. Test Backend API (Optional)
 
